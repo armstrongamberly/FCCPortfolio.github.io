@@ -1,0 +1,54 @@
+.main-background {
+  background-color: #9FFFCB;
+}
+
+.second-background {
+  background-color: #7AE582;
+  margin: auto;
+  color: #FAFAFA;
+}
+
+.subtitle {
+  font-family: 'Noto Sans';
+  padding-top: 5%;
+  font-size: 5em;
+}
+
+.text-margin {
+  font-family: 'Inconsolata';
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.about-box {
+  background-color: #004E64;
+  margin-top: 25px ;
+  text-align: center;
+  padding-bottom: 5%;
+  margin-top:5%;
+}
+
+.box2 {
+  background-color: #25A18E;
+  text-align: center;
+  padding-bottom: 5%;
+  
+}
+
+.image {
+  width: 250px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.contact-box {
+  background-color: #00A5CF;
+  text-align: center;
+  padding: 0% 15% 5% 15%;
+}
+
+.social {
+  margin-bottom:3%;
+}
+
+
